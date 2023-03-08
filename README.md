@@ -19,8 +19,8 @@ https://social-media-dogs.netlify.app/
 </p>
 
 ## Pictures
-![screenshot01](https://github.com/RianCarlos99/Dogs---Rede-Social-para-Cachorros/blob/master/Captura%20de%20tela%202023-03-08%20172316.png)
-![screenshot02](https://github.com/RianCarlos99/Dogs---Rede-Social-para-Cachorros/blob/master/Captura%20de%20tela%202023-03-08%20172425.png)
+![screenshot01](https://github.com/RianCarlos99/Dogs---Rede-Social-para-Cachorros/blob/master/src/Img/Captura%20de%20tela%202023-03-08%20172316.png)
+![screenshot02](https://github.com/RianCarlos99/Dogs---Rede-Social-para-Cachorros/blob/master/src/Img/Captura%20de%20tela%202023-03-08%20172425.png)
 
 # Getting Started with Create React App
 
