@@ -1,3 +1,27 @@
+
+## Technologies Used
+
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn-images-1.medium.com/max/2000/0*8JuQOeYEV_szUqS0" alt="victory" width="40" height="40"/>
+</div>
+
+## Website Link
+https://social-media-dogs.netlify.app/
+
+## Description
+
+<p>
+ Rede social para cachorros feita em React com acesso a API que fornece todos os dados, inclusive as fotos. Trabalho feito no intuito de colocar na prática tudo que      foi aprendido sobre React e seus Hooks no curso da Origamid.
+</p>
+
+## Pictures
+![screenshot01](https://github.com/RianCarlos99/Dogs---Rede-Social-para-Cachorros/blob/master/Captura%20de%20tela%202023-03-08%20172316.png)
+![screenshot02](https://github.com/RianCarlos99/Dogs---Rede-Social-para-Cachorros/blob/master/Captura%20de%20tela%202023-03-08%20172425.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
