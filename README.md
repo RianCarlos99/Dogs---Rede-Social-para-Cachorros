@@ -1,4 +1,5 @@
-# Technologies Used
+
+## Technologies Used
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -10,6 +11,14 @@
 
 ## Website Link
 https://social-media-dogs.netlify.app/
+
+## Description
+
+<p>
+ Rede social para cachorros feita em React com acesso a API que fornece todos os dados, inclusive as fotos. Trabalho feito no intuito de colocar na prática tudo que      foi aprendido sobre React e seus Hooks no curso da Origamid.
+</p>
+
+## Pictures
 
 # Getting Started with Create React App
 
