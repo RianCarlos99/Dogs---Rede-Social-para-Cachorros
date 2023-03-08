@@ -19,6 +19,7 @@ https://social-media-dogs.netlify.app/
 </p>
 
 ## Pictures
+![Texto alternativo](caminho/da/imagem.png)
 
 # Getting Started with Create React App
 
